@@ -218,3 +218,41 @@
 .bg-position-center {
     background-position: center;
 }
+
+/* ----- Overflow ------*/
+
+.overflow-hidden {
+    overflow: hidden!important;
+}
+
+.overflow-auto {
+    overflow: auto!important;
+}
+
+.overflow-scroll {
+    overflow: scroll!important;
+}
+
+.overflow-horizontal-hidden {
+    overflow-x: hidden!important;
+}
+
+.overflow-horizontal-auto {
+    overflow-x: auto!important;
+}
+
+.overflow-horizontal-scroll {
+    overflow-x: scroll!important;
+}
+
+.overflow-vertical-hidden {
+    overflow-y: hidden!important;
+}
+
+.overflow-vertical-auto {
+    overflow-y: auto!important;
+}
+
+.overflow-vertical-scroll {
+    overflow-y: scroll!important;
+}
