@@ -200,3 +200,21 @@
 .display-none {
     display: none!important;
 }
+
+
+/* ------ Background ------*/
+.contain, .bg-contain {
+    background-size: contain!important;
+}
+
+.cover, .bg-cover {
+    background-size: cover!important;
+}
+
+.no-repeat, .bg-no-repeat {
+    background-position: no-repeat;
+}
+
+.bg-position-center {
+    background-position: center;
+}
