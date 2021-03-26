@@ -4,6 +4,10 @@
     display: flex!important;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 .flex-direction-row {
     flex-direction: row!important;
 }
@@ -190,6 +194,22 @@
 
 .no-border {
     border: 0!important;
+}
+
+.margin-left-auto {
+    margin-left: auto!important;
+}
+
+.margin-right-auto {
+    margin-right: auto!important;
+}
+
+.margin-top-auto {
+    margin-top: auto!important;
+}
+
+.margin-bottom-auto {
+    margin-bottom: auto!important;
 }
 
 /* ----- Display ----- */ 
