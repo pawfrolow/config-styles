@@ -1,0 +1,28 @@
+{
+  "name": "config-styles",
+  "version": "0.1.0",
+  "description": "",
+  "main": "config-style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawfrolow/config-styles.git"
+  },
+  "author": "Paul Frolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawfrolow/config-styles/issues"
+  },
+  "homepage": "https://github.com/pawfrolow/config-styles#readme",
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "css-minimizer-webpack-plugin": "^3.0.0",
+    "event-hooks-webpack-plugin": "^2.2.0",
+    "mini-css-extract-plugin": "^1.6.0",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
